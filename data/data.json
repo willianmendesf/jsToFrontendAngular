@@ -1,0 +1,36 @@
+{
+  "datas": {
+    "string":[
+      { "id":1, "data":"01/01/2023" },
+      { "id":2, "data":"02/01/2023" },
+      { "id":3, "data":"03/01/2023" }
+    ],
+    "data": [
+      { "id":1, "data":20230101 },
+      { "id":2, "data":20230102 },
+      { "id":3, "data":20230103 }
+    ],
+    "timestamp":[
+      { "id":1, "timestamp":"2023-01-10 14:21:55" },
+      { "id":2, "timestamp":"2023-01-11 14:21:05" },
+      { "id":3, "timestamp":"2023-01-12 14:21:56" }
+    ]
+  },
+  "strings":{
+    "posfixo":[
+      { "id":1, "name":"Gilberto Coelho Neto JEI**" },
+      { "id":2, "name":"Alana Botelho JANETE GIU**" },
+      { "id":3, "name":"Marcos Danilho PedROSa MGU *" }
+    ],
+    "prefixo": [
+      { "id":1, "name":"GILBERTO coelho NETo JEI**" },
+      { "id":2, "name":"ALANA BOTELHO JANETE" },
+      { "id":3, "name":"marcos danilho pedroso" }
+    ],
+    "url": [
+      { "id":1, "site":"google.com" },
+      { "id":2, "site":"google" },
+      { "id":3, "site":"www.apple.com" }
+    ]
+  }
+}
