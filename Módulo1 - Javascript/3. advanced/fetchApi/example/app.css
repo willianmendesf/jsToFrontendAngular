@@ -1,0 +1,7 @@
+.item {
+  width: 230px;
+  padding: 10px;
+  border: 1px solid #eeee;
+  margin: 10px auto;
+  border-radius: 10px;
+}
