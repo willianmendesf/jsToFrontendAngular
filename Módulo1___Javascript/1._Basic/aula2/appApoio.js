@@ -10,8 +10,8 @@
 8. array
 
 
-// descobrir tipo => typeof
-console.log(typeof "1")
+// descobrir tipo da variável => typeof
+typeof("1")
 
 
 // Operadores lógicos
