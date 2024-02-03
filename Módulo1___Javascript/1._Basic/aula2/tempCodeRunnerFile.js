@@ -1,1 +1,2 @@
-console.log(typeof("1"))
+// descobrir tipo da variável => typeof
+console.log(typeof(date=>{}))
