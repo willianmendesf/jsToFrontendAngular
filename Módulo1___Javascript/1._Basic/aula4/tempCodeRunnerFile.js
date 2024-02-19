@@ -1,2 +1,3 @@
-var numPar = 37;
-console.log(numPar % 2 === 0);
+let textoCompleto = "Aprendendo JavaScript";
+let parteTexto = textoCompleto.substring(0, 9);
+console.log(parteTexto);

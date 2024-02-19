@@ -1,0 +1,45 @@
+let numero = 15; // Verifique se `numero` é maior que 10 e menor que 20.
+let texto = "Hello"; // Confira se `texto` tem pelo menos 5 caracteres e não é vazio.
+let num = 75; // Teste se `num` é negativo ou está entre 50 e 100.
+let idade = 21; // Valide se o usuário é maior de idade e tem um nome definido.
+let nomeUsuario; // Valide se o usuário é maior de idade e tem um nome definido.
+let numPar = 30; // Verifique se `numPar` é par e está entre 20 e 40.
+let variavel = null; // Teste se `variavel` é nula ou indefinida.
+let frase = "Eu amo JavaScript!"; // Confira se `frase` contém a palavra "JavaScript".
+let positivo = 5; // Valide se `positivo` é diferente de zero e positivo.
+let a = 10, b = '10'; // Teste se `a` e `b` são iguais e diferentes de zero.
+let booleano = true; // Verifique se `booleano` é verdadeiro e não é um número.
+let textoCurto = "Hello"; // Confira se `textoCurto` tem menos de 15 caracteres ou começa com a letra "A".
+let numeroDivisivel = 14; // Teste se `numeroDivisivel` não é divisível por 3.
+let variavelTipo = "Texto"; // Valide se `variavelTipo` é uma string ou um número.
+let parOuImpar = 27; // Verifique se `parOuImpar` é par ou ímpar.
+let booleanoVerdadeiro = true; // Confira se `booleanoVerdadeiro` é uma booleana e verdadeira.
+let textoEspacos = "Hello World"; // Teste se `textoEspacos` contém pelo menos dois espaços em branco.
+let foraIntervalo = 25; // Valide se `foraIntervalo` está fora do intervalo de 30 a 50.
+let arrayTeste = [1, 2, 3, 4]; // Verifique se `arrayTeste` é um array e tem pelo menos 3 elementos.
+let indefinidaNula = undefined; // Confira se `indefinidaNula` é indefinida ou nula.
+let terminaComO = "JavaScript"; // Teste se `terminaComO` termina com a letra "o".
+let multiplo = 14; // Valide se `multiplo` é múltiplo de 5 ou de 7.
+let funcaoTeste = () => true; // Teste se `funcaoTeste` é uma função e retorna verdadeiro.
+let objetoTeste = { nome: "John" }; // Verifique se `objetoTeste` é um objeto e tem a propriedade "nome".
+let stringVazia = "   "; // Confira se `stringVazia` é vazia ou composta apenas por espaços em branco.
+let numeroDiferente = 7; // Valide se `numeroDiferente` é diferente de 10 e não é negativo.
+let testeVariavel = true; // Teste se `testeVariavel` é verdadeira ou `testeString` não é vazia.
+let testeString = "Hello"; // Teste se `testeVariavel` é verdadeira ou `testeString` não é vazia.
+let numeroIntervalo = 50; // Verifique se `numeroIntervalo` é um número e está entre 0 e 100, excluindo 0 e 100.
+let maiusculaTeste = "HelloWorld"; // Confira se `maiusculaTeste` contém pelo menos uma letra maiúscula.
+let multiplo35 = 15; // Valide se `multiplo35` é múltiplo de 3 e 5.
+let falsaVariavel = false; // Teste se `falsaVariavel` é falsa ou `stringVaziaTeste` é vazia.
+let stringVaziaTeste = ""; // Teste se `falsaVariavel` é falsa ou `stringVaziaTeste` é vazia.
+let arrayTeste2 = [1]; // Verifique se `arrayTeste2` é um array e tem pelo menos um elemento.
+let indefinidaNulaVazia = undefined; // Confira se `indefinidaNulaVazia` é indefinida, nula ou uma string vazia.
+let numerosString = "12345"; // Teste se `numerosString` contém apenas números.
+let numeroMenorMaior = 75; // Valide se `numeroMenorMaior` é menor que 50 ou maior que 100.
+let objetoDuasPropriedades = { nome: "John", idade: 25 }; // Verifique se `objetoDuasPropriedades` é um objeto e tem pelo menos duas propriedades.
+let comecaComH = "Hello"; // Confira se `comecaComH` começa com a letra "H" e termina com a letra "o".
+let verdadeiroTeste = true; // Teste se `verdadeiroTeste` é verdadeira ou `stringSemFalse` não contém a palavra "false".
+let stringSemFalse = "Hello World"; // Teste se `verdadeiroTeste` é verdadeira ou `stringSemFalse` não contém a palavra "false".
+let divisivelPor2 = 8; // Valide se `divisivelPor2` é múltiplo de 2 e não é zero.
+let nulaTeste = null; // Teste se `nulaTeste` é nula ou `stringNaoVazia` não é vazia.
+let stringNaoVazia = "Hello"; // Teste se `nulaTeste` é nula ou `stringNaoVazia` não é vazia.
+let arrayString = ["Hello", 2, 3]; // Verifique se `arrayString` é um array e o primeiro elemento é uma string.
