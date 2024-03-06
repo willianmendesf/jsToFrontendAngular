@@ -5,7 +5,7 @@
 var arr = [1, 2, 3]
 var ArrAdded = [4,5]
 const concatenatedArr = arr.concat(ArrAdded);
-console.log(concatenatedArr); 
+console.log(concatenatedArr);
 // [1, 2, 3, 4, 5]
 
 
